@@ -1,12 +1,15 @@
-# Rivendel Labs
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://www.rivendel.com.br)
+[![Rivendel Tecnologia](https://rivendel.com.br/assets/img/rivendel_logo.png)](https://www.rivendel.com.br)
+# Trilha de Formação
 
 Este repositório representa a trilha inicial de estudos para os estagiários da Rivendel Tecnologia, com o objetivo de consolidar de forma prática e didática os principais componentes, tecnologias e ferramentas utilizadas pelo maior time de Cloud do Brasil.
 
+> Após cada capítulo teremos um desafio prático abordando as informações do capítulo corrente para então obter a conclusão do mesmo.
+
+> Ao término de cada exercício dos capítulos, realizaremos um feedback para entendermos as motivações das práticas adotadas para as soluções.
+
 # Cronograma de estudos:
 
-### Linux Essentials
+### #1 Linux Essentials
   - Mapeamento dos servidores 
   - Editor de Texto Vim
   - Introdução a Redes
@@ -21,7 +24,7 @@ Este repositório representa a trilha inicial de estudos para os estagiários da
   - Linguagem SQL
   - Servidor NTP
 
-### Aws Essentials
+### #2 Aws Essentials
   - IAM Básico
   - VPC
   - EC2
@@ -30,44 +33,43 @@ Este repositório representa a trilha inicial de estudos para os estagiários da
   - Route53
   - S3
 
-### Monitoramento
+### #3 Monitoramento
   - Introdução aos monitoramentos
   - Tipos de Monitoramento
   - Conhecendo a Dashboard do Zabbix
   - Zabbix - Credenciais/Acessos
   - Começando a monitorar 
 
-### Continuous Integration && Continuous Deploy
+### #4 Continuous Integration && Continuous Deploy
   - Introdução ao Continuous Integration
   - Introdução ao Continuous Deploy
   - Ferramentas de suporte ao processo adotado
 
-### Git - Basic Concepts
+### #5 Git - Basic Concepts
   - Introdução ao Git
   - Clonar um repositório
   - Alterar & Commitar 
   - Subindo o seu conteúdo para o Git
 
-### Ansible 
+### #6 Ansible 
   - Introdução ao Ansible
   - Principais arquivos de configuração
   - Modulos do Ansible 
   - Roles 
   - Criando e Executando Playbooks
 
-### Jenkins - Basic Concepts 
+### #7 Jenkins - Basic Concepts 
   - Introdução ao Jenkins
   - Criar e Executar jobs Básicas
 
-### Python Essentials
+### #8 Python Essentials
   - Introdução ao Python 
   - Caracteristicas da linguagem
   - Realizando scripts para checagem ao Elasticsearch
 
-### Docker Fundamentals
+### #9 Docker Fundamentals
   - Introdução ao Docker
   - Docker Images 
   - Criando um container 
   - Dockerfile - Criando sua própria Imagem
   - Subindo sua imagem para o Dockerhub 
-
