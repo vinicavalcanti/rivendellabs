@@ -2,7 +2,7 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://www.rivendel.com.br)
 
-Este repositório representa a trilha inicial de estudos para os estagiários da Rivendel Tecnologia, com o objetivo de consolidar de forma prática e didática os principais componentes, tecnologias e ferramentas utilizadas pelo maior time de Cloud no Brasil.
+Este repositório representa a trilha inicial de estudos para os estagiários da Rivendel Tecnologia, com o objetivo de consolidar de forma prática e didática os principais componentes, tecnologias e ferramentas utilizadas pelo maior time de Cloud do Brasil.
 
 # Cronograma de estudos:
 
