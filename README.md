@@ -30,7 +30,7 @@ Este repositório representa a trilha inicial de estudos para os estagiários da
   - Route53
   - S3
 
-### Monitoramento Essentials
+### Monitoramento
   - Introdução aos monitoramentos
   - Tipos de Monitoramento
   - Conhecendo a Dashboard do Zabbix
@@ -42,20 +42,20 @@ Este repositório representa a trilha inicial de estudos para os estagiários da
   - Introdução ao Continuous Deploy
   - Ferramentas de suporte ao processo adotado
 
-### Git Essentials
+### Git - Basic Concepts
   - Introdução ao Git
   - Clonar um repositório
   - Alterar & Commitar 
   - Subindo o seu conteúdo para o Git
 
-### Ansible Essentials 
+### Ansible 
   - Introdução ao Ansible
   - Principais arquivos de configuração
   - Modulos do Ansible 
   - Roles 
   - Criando e Executando Playbooks
 
-### Jenkins Essentials 
+### Jenkins - Basic Concepts 
   - Introdução ao Jenkins
   - Criar e Executar jobs Básicas
 
@@ -64,7 +64,7 @@ Este repositório representa a trilha inicial de estudos para os estagiários da
   - Caracteristicas da linguagem
   - Realizando scripts para checagem ao Elasticsearch
 
-### Docker 
+### Docker Fundamentals
   - Introdução ao Docker
   - Docker Images 
   - Criando um container 
