@@ -6,7 +6,7 @@ Este repositório representa a trilha inicial de estudos para os estagiários da
 
 # Cronograma de estudos:
 
-### Linux Foundation
+### Linux Essentials
   - Mapeamento dos servidores 
   - Editor de Texto Vim
   - Introdução a Redes
@@ -29,4 +29,45 @@ Este repositório representa a trilha inicial de estudos para os estagiários da
   - RDS
   - Route53
   - S3
+
+### Monitoramento Essentials
+  - Introdução aos monitoramentos
+  - Tipos de Monitoramento
+  - Conhecendo a Dashboard do Zabbix
+  - Zabbix - Credenciais/Acessos
+  - Começando a monitorar 
+
+### Continuous Integration && Continuous Deploy
+  - Introdução ao Continuous Integration
+  - Introdução ao Continuous Deploy
+  - Ferramentas de suporte ao processo adotado
+
+### Git Essentials
+  - Introdução ao Git
+  - Clonar um repositório
+  - Alterar & Commitar 
+  - Subindo o seu conteúdo para o Git
+
+### Ansible Essentials 
+  - Introdução ao Ansible
+  - Principais arquivos de configuração
+  - Modulos do Ansible 
+  - Roles 
+  - Criando e Executando Playbooks
+
+### Jenkins Essentials 
+  - Introdução ao Jenkins
+  - Criar e Executar jobs Básicas
+
+### Python Essentials
+  - Introdução ao Python 
+  - Caracteristicas da linguagem
+  - Realizando scripts para checagem ao Elasticsearch
+
+### Docker 
+  - Introdução ao Docker
+  - Docker Images 
+  - Criando um container 
+  - Dockerfile - Criando sua própria Imagem
+  - Subindo sua imagem para o Dockerhub 
 
