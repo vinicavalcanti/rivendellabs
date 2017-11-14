@@ -1,7 +1,7 @@
 [![Rivendel Tecnologia](https://rivendel.com.br/assets/img/rivendel_logo.png)](https://www.rivendel.com.br)
 # Trilha de Formação
 
-Este repositório representa a trilha inicial de estudos para os estagiários da Rivendel Tecnologia, com o objetivo de consolidar de forma prática e didática os principais componentes, tecnologias e ferramentas utilizadas pelo maior time de Cloud do Brasil.
+Este repositório tem como objetivo manter as trilhas de estudos para formação/capacitação dos colaboradores da Rivendel Tecnologia, com o objetivo de consolidar de forma prática e didática os principais componentes, tecnologias e ferramentas utilizadas pelo maior time de Cloud do Brasil.
 
 > Após cada capítulo teremos um desafio prático abordando as informações do capítulo corrente para então obter a conclusão do mesmo.
 
