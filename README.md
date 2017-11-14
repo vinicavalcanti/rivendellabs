@@ -51,7 +51,7 @@ Este repositório tem como objetivo manter as trilhas de estudos para formação
   - Alterar & Commitar 
   - Subindo o seu conteúdo para o Git
 
-### #6 Ansible 
+### #6 Ansible Foundation
   - Introdução ao Ansible
   - Principais arquivos de configuração
   - Modulos do Ansible 
