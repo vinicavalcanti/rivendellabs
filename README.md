@@ -3,9 +3,9 @@
 
 Este repositório tem como objetivo manter as trilhas de estudos para auxiliar o processo de formação/capacitação dos colaboradores da Rivendel Tecnologia, com o objetivo de consolidar de forma prática e didática os principais componentes, tecnologias e ferramentas utilizadas pelo maior time de Cloud do Brasil.
 
-> Após cada capítulo teremos um desafio prático abordando as informações do capítulo corrente para então obter a conclusão do mesmo.
+#> Após cada capítulo teremos um desafio prático abordando as informações do capítulo corrente para então obter a conclusão do mesmo.
 
-> Ao término de cada exercício dos capítulos, realizaremos um feedback para entendermos as motivações das práticas adotadas para as soluções.
+#> Ao término de cada exercício dos capítulos, realizaremos um feedback para entendermos as motivações das práticas adotadas para as soluções.
 
 # Cronograma de estudos:
 
